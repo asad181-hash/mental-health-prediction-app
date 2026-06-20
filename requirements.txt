@@ -1,4 +1,4 @@
 streamlit
 pandas
 joblib
-xgboost
+xgboost==3.2.0
